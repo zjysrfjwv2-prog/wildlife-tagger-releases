@@ -17,7 +17,7 @@ Built by a wildlife photographer, for wildlife photographers.
 
 <br>
 
-<img src="assets/setup.jpg" width="900" alt="Wildlife Tagger: choose a folder, pick what to do, press Tag Photos">
+<img src="assets/setup.png" width="900" alt="Wildlife Tagger: choose a folder, pick what to do, press Tag Photos">
 
 </div>
 
@@ -45,7 +45,7 @@ find them in Bridge in seconds instead of scrolling for an evening.
 ## Watch it work
 
 <div align="center">
-<img src="assets/progress.jpg" width="560" alt="Tagging in progress, with the latest species found">
+<img src="assets/progress.png" width="560" alt="Tagging in progress, with the latest species found">
 </div>
 
 A live view shows the photo being analysed and each new species as it turns up, so you can spot a wrong ID
@@ -56,7 +56,7 @@ while the run is still going. Models load in the background when the app opens, 
 ## See what you got
 
 <div align="center">
-<img src="assets/results.jpg" width="900" alt="The finished screen: top species, highlights and the encounter timeline">
+<img src="assets/results.png" width="900" alt="The finished screen: top species, highlights and the encounter timeline">
 </div>
 
 The results screen gives you your best frames, the species you found, and a timeline of the morning:
