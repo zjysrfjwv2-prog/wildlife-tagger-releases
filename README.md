@@ -162,6 +162,16 @@ Choose <b>Help › Show Log…</b>, click <b>Copy Log</b>, and paste it in an em
 
 <br>
 
+## Want a supported version?
+
+Wildlife Tagger is free today. I'm planning a **supported, paid version** for photographers who rely on it: a signed app that opens without any warnings, a licence that follows you across your Macs, faster fixes, and the features below.
+
+**Coming next:** a Lightroom Classic plugin that adds the keywords to your existing catalog, a library that remembers every trip, and a map of where you've shot each species.
+
+If that's something you'd use, **[join the waitlist](mailto:cinematicjosh@gmail.com?subject=Wildlife%20Tagger%20waitlist&body=Hi%20Josh%2C%20please%20add%20me%20to%20the%20Wildlife%20Tagger%20waitlist.%0A%0AI%20mostly%20use%3A%20Bridge%20%2F%20Lightroom%20Classic%20%2F%20other%3A%20%0AI%20shoot%3A%20)** and tell me what you use it for. Waitlist members get the founding-member price (planned at about $25, one-time) before it goes on sale. No payment now, and no obligation.
+
+<br>
+
 ## Credits and licence
 
 Made by **Joshua Smith**: [joshuasmithphotography.com](https://www.joshuasmithphotography.com) · [cinematicjosh@gmail.com](mailto:cinematicjosh@gmail.com)
