@@ -80,6 +80,14 @@ straight to the keywords.
 
 ## What lands in Bridge
 
+<div align="center">
+<img src="assets/bridge.png" width="900" alt="Adobe Bridge showing a folder of Sony RAW files after a run: species and checks in the Filter panel, the squirrel's keywords in the Keywords panel">
+</div>
+
+A folder of Sony RAW files in Bridge after one run. The Filter panel lists every species, behaviour and focus check with counts, so
+*Deer*, *Dragonfly*, *Eye Sharp* or *Best in Burst* is one click away. The Keywords panel shows what was written to the selected photo.
+
+
 ```
 Egret                          Snowy Egret
 In Flight                      Best in Burst · Top 3 in Burst
