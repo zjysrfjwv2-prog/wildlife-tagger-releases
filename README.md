@@ -17,7 +17,7 @@ Built by a wildlife photographer, for wildlife photographers.
 
 <br>
 
-<img src="assets/setup.png" width="900" alt="Wildlife Tagger: choose a folder, pick what to do, press Tag Photos">
+<img src="assets/demo.gif" width="900" alt="Wildlife Tagger in action: choose a folder, watch it name every bird, then see the results">
 
 </div>
 
@@ -39,6 +39,17 @@ find them in Bridge in seconds instead of scrolling for an evening.
 | 📝 **Writes captions** | *"Roseate Spoonbill and White Ibis at sunrise · Waller County, Texas · September 12, 2026"* in the Description field, ready for upload. |
 | 🌿 **Sees the scenery too** | Flowers, mushrooms, mountains, seascapes, wetlands, sunrises and sunsets are tagged as well. |
 | 🧾 **eBird, GPS and rarities** | Export an eBird checklist, geotag photos from your phone's GPX track, and spot *Rare Here* species. |
+
+<br>
+
+## Choose a folder. Press one button.
+
+<div align="center">
+<img src="assets/setup.png" width="900" alt="Wildlife Tagger: choose a folder, pick what to do, press Tag Photos">
+</div>
+
+Drop in a folder of photos, pick what you want (names, focus checks, culls, captions, encounters and more), and press **Tag Photos**.
+Every option is visible at once, and your choices are remembered for next time.
 
 <br>
 
