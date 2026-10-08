@@ -25,7 +25,8 @@ Built by a wildlife photographer, for wildlife photographers.
 
 ## Thousands of frames in. Organised keywords out.
 
-You come home with 4,000 frames of spoonbills. Wildlife Tagger reads every one, tells you what's in it,
+You come home from a week in the field with 4,000 frames: egrets and herons, a deer at the tree line, ducks in
+flight, a gator on a log, dragonflies, wildflowers, a sunset or two. Wildlife Tagger reads every one, tells you what's in it,
 which frame of each burst is the keeper, and where the trip's best moments happened, so you can
 find them in Bridge in seconds instead of scrolling for an evening.
 
@@ -36,7 +37,7 @@ find them in Bridge in seconds instead of scrolling for an evening.
 | 👁️ **Finds the sharp eye** | Marks the sharpest frame of each burst, flags soft eyes, and adds *Head Toward Camera* and *Catchlight* for the keepers. |
 | ✂️ **Suggests culls** | Cut-off wings, empty frames and blown highlights get a keyword you can filter on. Nothing is ever deleted. |
 | 🕊️ **Understands behaviour** | *In Flight* and *Flock* keywords, and encounters that group a burst of the same animal into a story with the weather at the time. |
-| 📝 **Writes captions** | *"Roseate Spoonbill and White Ibis at sunrise · Waller County, Texas · September 12, 2026"* in the Description field, ready for upload. |
+| 📝 **Writes captions** | *"Wood Stork and White Ibis at sunrise · Waller County, Texas · September 12, 2026"* in the Description field, ready for upload. |
 | 🌿 **Sees the scenery too** | Flowers, mushrooms, mountains, seascapes, wetlands, sunrises and sunsets are tagged as well. |
 | 🧾 **eBird, GPS and rarities** | Export an eBird checklist, geotag photos from your phone's GPX track, and spot *Rare Here* species. |
 
@@ -85,8 +86,8 @@ In Flight                      Best in Burst · Top 3 in Burst
 Head Toward Camera             Catchlight
 Scenes | Wetland               Plants | Pansy
 Places | United States | Texas | Waller County
-Encounters | 2026-09-12 | 06:54 Roseate Spoonbill
-Description: Roseate Spoonbill at sunrise · Waller County, Texas · September 12, 2026
+Encounters | 2026-09-12 | 06:54 Great Egret
+Description: Great Egret at sunrise · Waller County, Texas · September 12, 2026
 ```
 
 RAW files get a standard `.xmp` sidecar next to them. JPEG, HEIC, TIFF, PNG and DNG files get the keywords
