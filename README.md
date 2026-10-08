@@ -33,6 +33,8 @@ find them in Bridge in seconds instead of scrolling for an evening.
 | | |
 |---|---|
 | 🐦 **Names the species** | Birds, mammals, reptiles, insects, plants and fungi, from RAW, DNG, JPEG, HEIC, TIFF and PNG. Tuned for the birds of the US and Canada. |
+| 🎯 **Shows how sure it is** | Every ID carries a confidence ("Egret 98%") on the photo as it's analysed, so you know which ones to trust. |
+| 🛡️ **Flags threatened species** | Species on the IUCN Red List (Vulnerable, Endangered, Critically Endangered) get a badge and a *Conservation* keyword in Bridge, and a green, amber or red pin shows whether a species has been recorded near where you shot it. |
 | 📍 **Knows where you were** | Every ID is checked against real sightings near the photo's GPS position, so a bird that has never been recorded there gets corrected to one that has. |
 | 👁️ **Finds the sharp eye** | Marks the sharpest frame of each burst, flags soft eyes, and adds *Head Toward Camera* and *Catchlight* for the keepers. |
 | ✂️ **Suggests culls** | Cut-off wings, empty frames and blown highlights get a keyword you can filter on. Nothing is ever deleted. |
@@ -94,6 +96,7 @@ In Flight                      Best in Burst · Top 3 in Burst
 Head Toward Camera             Catchlight
 Scenes | Wetland               Plants | Pansy
 Places | United States | Texas | Waller County
+Conservation | Vulnerable                          (only for threatened species)
 Encounters | 2026-09-12 | 06:54 Great Egret
 Description: Great Egret at sunrise · Waller County, Texas · September 12, 2026
 ```
