@@ -47,7 +47,9 @@ find them in Bridge in seconds instead of scrolling for an evening.
 | 🗺️ **Map** | See where each species was photographed, on a satellite map (needs GPS from the camera or a GPX track). |
 | 🏷️ **Rename by species** | `2026-07-29_Great-Egret_DSC02421.ARW`, with sidecars following, and an Undo button. |
 | 🔤 **Uses your keyword spelling** | Point it at a keyword list or a Lightroom catalog and species are written the way you already spell them. |
-| 💡 **Lightroom Classic plugin** | Adds the keywords, captions and colour labels to photos already in your catalog. Included in the app. |
+| 💡 **Lightroom Classic plugin** | Adds the keywords, captions, colour labels and star ratings to photos already in your catalog. Included in the app. |
+| ⭐ **Star ratings for keepers** | Optional: 5 stars for the best frame of each burst, 4 for the next two, 3 for a sharp single shot, so Bridge and Lightroom sort by rating. A rating you set yourself is never changed. |
+| 📤 **Export Keepers** | One button copies your best frames to a new folder, with optional web-size JPEGs that carry the caption and species names (never places or times). |
 
 <br>
 
@@ -58,8 +60,9 @@ find them in Bridge in seconds instead of scrolling for an evening.
 </div>
 
 Drop in a folder of photos, pick what you want to do (**Tag**, **Recheck**, **Resume**, **Eye Focus**, **Review**, **Species** or **Rename**),
-choose your options (names, focus checks, culls, captions, encounters and more), and press the big button.
-Every option is visible at once, and your choices are remembered for next time.
+choose your options (names, focus checks, culls, captions, encounters, star ratings and more), and press the big button.
+Every option is visible at once, and your choices are remembered for next time. Drag the corner of the window to make
+the whole app bigger or smaller.
 
 <br>
 
@@ -80,10 +83,11 @@ while the run is still going. Models load in the background when the app opens, 
 <img src="assets/results.png" width="900" alt="The finished screen: top species, highlights and the encounter timeline">
 </div>
 
-The results screen gives you your best frames, the species you found, and a timeline of the morning:
-when each animal appeared, how many keepers you got, and what the weather was doing.
-Then **Review Tags** lets you confirm or correct anything in one click, and **Open in Bridge** takes you
-straight to the keywords.
+The results screen leads with your best frames, then how the eye-focus check went, the species you found
+(each shown by its head, not the whole scene) and a timeline of the morning: when each animal appeared,
+how many keepers you got, and what the weather was doing. The full keyword list is one click away.
+**Review Tags** lets you confirm or correct anything in one click, **Export Keepers…** copies your best frames
+somewhere to share, and **Open in Bridge** takes you straight to the keywords.
 
 <br>
 
@@ -93,8 +97,8 @@ straight to the keywords.
 <img src="assets/library.png" width="900" alt="The Library window: a grid of species with a cover photo, counts and dates">
 </div>
 
-Every folder you tag is added to your **Library** (**File › Library…**, or ⌘L). You get every species you've photographed, with a cover
-photo, how many frames and when. Add folders you tagged earlier with **Add Folder…**.
+Every folder you tag is added to your **Library** (**File › Library…**, or ⌘L). You get every species you've photographed, with a close-up
+of its head, how many frames and when. Add folders you tagged earlier with **Add Folder…**.
 
 <div align="center">
 <img src="assets/library-search.png" width="900" alt="Searching the library for 'spoonbill sharp eyes' and getting five photos">
