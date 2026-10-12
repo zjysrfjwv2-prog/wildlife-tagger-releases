@@ -7,8 +7,8 @@
 **Cull less. Shoot more. Let your Mac name every bird, beast and bloom in your photos.**
 
 Wildlife Tagger identifies the wildlife in your RAW files and writes the species, behaviour,
-focus checks and a ready-to-use caption straight into **Adobe Bridge**, **Lightroom** and **Capture One**.
-Built by a wildlife photographer, for wildlife photographers.
+focus checks and a ready-to-use caption straight into **Adobe Bridge**, **Lightroom Classic** and **Capture One**,
+then keeps every trip in a searchable library. Built by a wildlife photographer, for wildlife photographers.
 
 [![Download](https://img.shields.io/github/v/release/zjysrfjwv2-prog/wildlife-tagger-releases?label=Download&style=for-the-badge&color=2e8b57)](https://github.com/zjysrfjwv2-prog/wildlife-tagger-releases/releases/latest)
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black?style=for-the-badge&logo=apple)
@@ -42,6 +42,12 @@ find them in Bridge in seconds instead of scrolling for an evening.
 | 📝 **Writes captions** | *"Wood Stork and White Ibis at sunrise · Waller County, Texas · September 12, 2026"* in the Description field, ready for upload. |
 | 🌿 **Sees the scenery too** | Flowers, mushrooms, mountains, seascapes, wetlands, sunrises and sunsets are tagged as well. |
 | 🧾 **eBird, GPS and rarities** | Export an eBird checklist, geotag photos from your phone's GPX track, and spot *Rare Here* species. |
+| 🔎 **Library and search** | Every folder you tag joins one library. Search in plain English: *"egret in flight at sunrise"*, *"best spoonbills 2026"*, *"sharp eyes July"*. |
+| 🆚 **Compare frames** | See the best frames of a burst side by side, zoomed to the eye, with the reason each one ranks where it does. Optionally keep only the best 1, 2 or 3 of each burst. |
+| 🗺️ **Map** | See where each species was photographed, on a satellite map (needs GPS from the camera or a GPX track). |
+| 🏷️ **Rename by species** | `2026-07-29_Great-Egret_DSC02421.ARW`, with sidecars following, and an Undo button. |
+| 🔤 **Uses your keyword spelling** | Point it at a keyword list or a Lightroom catalog and species are written the way you already spell them. |
+| 💡 **Lightroom Classic plugin** | Adds the keywords, captions and colour labels to photos already in your catalog. Included in the app. |
 
 <br>
 
@@ -51,7 +57,8 @@ find them in Bridge in seconds instead of scrolling for an evening.
 <img src="assets/setup.png" width="900" alt="Wildlife Tagger: choose a folder, pick what to do, press Tag Photos">
 </div>
 
-Drop in a folder of photos, pick what you want (names, focus checks, culls, captions, encounters and more), and press **Tag Photos**.
+Drop in a folder of photos, pick what you want to do (**Tag**, **Recheck**, **Resume**, **Eye Focus**, **Review**, **Species** or **Rename**),
+choose your options (names, focus checks, culls, captions, encounters and more), and press the big button.
 Every option is visible at once, and your choices are remembered for next time.
 
 <br>
@@ -80,6 +87,36 @@ straight to the keywords.
 
 <br>
 
+## Find any photo, any trip
+
+<div align="center">
+<img src="assets/library.png" width="900" alt="The Library window: a grid of species with a cover photo, counts and dates">
+</div>
+
+Every folder you tag is added to your **Library** (**File › Library…**, or ⌘L). You get every species you've photographed, with a cover
+photo, how many frames and when. Add folders you tagged earlier with **Add Folder…**.
+
+<div align="center">
+<img src="assets/library-search.png" width="900" alt="Searching the library for 'spoonbill sharp eyes' and getting five photos">
+</div>
+
+Search in plain English and it tells you how it read your words. It understands species, behaviour (*in flight*), sharp eyes,
+best frames, rare sightings, months, years and times of day. The **Map** tab shows where you've photographed each species.
+
+<br>
+
+## Pick the keeper
+
+<div align="center">
+<img src="assets/compare.png" width="900" alt="Compare frames: two frames of an egret side by side, zoomed to the eye, the best one outlined in green with the reason it ranks first">
+</div>
+
+In **Review**, press **C** to compare the best frames of a burst side by side, each zoomed to the eye, with the reasons they rank
+the way they do. Turn on **Mark the extras in each burst** and the app keeps the best 1, 2 or 3 of every burst and tags the rest
+*Cull - Not a Keeper*. Nothing is ever deleted.
+
+<br>
+
 ## What lands in Bridge
 
 <div align="center">
@@ -103,6 +140,19 @@ Description: Great Egret at sunrise · Waller County, Texas · September 12, 202
 
 RAW files get a standard `.xmp` sidecar next to them. JPEG, HEIC, TIFF, PNG and DNG files get the keywords
 inside the file. **Your picture data is never changed.**
+
+<br>
+
+## Using Lightroom Classic?
+
+Lightroom reads the `.xmp` sidecars when you import, so photos you tag first arrive with their keywords. For photos **already in your
+catalog**, the app includes a small plugin:
+
+1. In Wildlife Tagger choose **Help › Install Lightroom Plugin…**, then restart Lightroom Classic.
+2. Select photos in the Library module and choose **Library › Plug-in Extras › Apply Wildlife Tagger Keywords**.
+
+Keywords keep their hierarchy (*Birds › Heron › Green Heron*). Captions and colour labels are only added where you have none, so nothing
+you set is replaced. If you rename files with the app, do it before importing, because Lightroom tracks files by name.
 
 <br>
 
@@ -134,7 +184,7 @@ and it will tell you when there's something new.
 <details>
 <summary><b>Does it change my photos?</b></summary>
 Never. RAW files stay untouched and get a sidecar file. Other formats get keywords written alongside the picture data,
-which is left as it was.
+which is left as it was. The only thing that renames files is the **Rename** task, which you start yourself and can undo.
 </details>
 
 <details>
@@ -164,9 +214,9 @@ Choose <b>Help › Show Log…</b>, click <b>Copy Log</b>, and paste it in an em
 
 ## Want a supported version?
 
-Wildlife Tagger is free today. I'm planning a **supported, paid version** for photographers who rely on it: a signed app that opens without any warnings, a licence that follows you across your Macs, faster fixes, and the features below.
+Wildlife Tagger is free today. I'm planning a **supported, paid version** for photographers who rely on it: a signed app that opens without any warnings, a licence that follows you across your Macs, and faster fixes.
 
-**Coming next:** a Lightroom Classic plugin that adds the keywords to your existing catalog, a library that remembers every trip, and a map of where you've shot each species.
+**Already in the free app today:** the Lightroom Classic plugin, the library with plain-English search, and the map.
 
 If that's something you'd use, **[join the waitlist](mailto:cinematicjosh@gmail.com?subject=Wildlife%20Tagger%20waitlist&body=Hi%20Josh%2C%20please%20add%20me%20to%20the%20Wildlife%20Tagger%20waitlist.%0A%0AI%20mostly%20use%3A%20Bridge%20%2F%20Lightroom%20Classic%20%2F%20other%3A%20%0AI%20shoot%3A%20)** and tell me what you use it for. Waitlist members get the founding-member price (planned at about $25, one-time) before it goes on sale. No payment now, and no obligation.
 
